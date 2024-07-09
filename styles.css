@@ -1,0 +1,81 @@
+body {
+    background: #e0e0e0;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+.stApp {
+    padding: 20px;
+    border-radius: 20px;
+    background: #e0e0e0;
+    box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+.stButton > button {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.stButton > button:hover {
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+}
+
+.stTextInput > div > input {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+}
+
+.stTextArea > div > textarea {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+}
+
+.stDateInput > div > input {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+}
+
+.stNumberInput > div > input {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+}
+
+.stSelectbox > div > div {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 15px #bebebe, inset -5px -5px 15px #ffffff;
+    color: #333;
+    font-size: 16px;
+}
