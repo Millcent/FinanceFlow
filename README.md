@@ -75,5 +75,11 @@ financeflow/
     - Visualize Data: Page to visualize income and expenses over time.
     - Clear Data: Page to clear all data for the logged-in user.
 
+This project was developed by Milicent Tsweleng. 
+
+## Contact
+
+- GitHub: [Millcent](https://github.com/Millcent)
+- Email: millicenttsweleng@gmail.com
 
 
