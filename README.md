@@ -46,6 +46,7 @@ FinanceFlow is a personal finance tracker application built using Streamlit. It 
 ## File Structure
 
 financeflow/
+
 │
 ├── data/ # Directory for SQLite database files
 ├── styles.css # CSS file for neumorphic design
